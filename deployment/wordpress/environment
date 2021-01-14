@@ -1,0 +1,4 @@
+DB_NAME=gor-wordpress-db
+DB_USER=root
+DB_PASSWORD=password
+DB_HOST=34.80.253.151
